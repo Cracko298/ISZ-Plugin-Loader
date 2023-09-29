@@ -1,2 +1,5 @@
 # ISZ-Plugin-Loader
-An Open-Source Shared Library compiled into a *.dll to Load the ISZ-2021-Plugin into Games.
+- **Currently a W.I.P. project of mine. Might not be released for a bit.**
+
+## Features:
+- **Can be loaded by [UMU](), and [UML]() (CPP and Blueprint Loader).**
